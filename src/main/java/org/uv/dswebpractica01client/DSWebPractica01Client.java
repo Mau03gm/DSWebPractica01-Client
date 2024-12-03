@@ -13,10 +13,6 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Sebastian
- */
 public class DSWebPractica01Client {
 
     private static Scanner scanner;
